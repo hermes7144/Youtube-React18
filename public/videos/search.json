@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "jz39iD7UiZ96-jmNpSKrjINMsr4",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 360781,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MP0UgLRM5Cp6wqr8fdTradLMVls",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mnpQsM-tqQU"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-13T10:00:33Z",
+                "channelId": "UCoBcjaSab_CLwBOKe-8Fvjw",
+                "title": "윤하(YOUNHA) - 사건의 지평선 [가사/Lyrics]",
+                "description": "윤하(YOUNHA) - 사건의 지평선 [가사/Lyrics] #윤하 #YOUNHA #사건의지평선 발매 : 2022.03.30 아티스트 : 윤하 앨범 : YOUNHA ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mnpQsM-tqQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mnpQsM-tqQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mnpQsM-tqQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "웅키",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-13T10:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "n0HunmheUiRm6pN85Yi6mClVX-0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BBdC1rl5sKY"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-30T09:00:08Z",
+                "channelId": "UCmAT2nOQB0ofAhlc7_2P8GA",
+                "title": "윤하(YOUNHA) - 사건의 지평선 M/V",
+                "description": "윤하(YOUNHA) - 사건의 지평선 M/V YOUNHA Official TWITTER https://twitter.com/younhaholic YOUNHA FanCafe ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BBdC1rl5sKY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BBdC1rl5sKY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BBdC1rl5sKY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YOUNHA OFFICIAL",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-30T09:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LmBT-B5rdE6Jf_gIhA2wIe5NEQA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sCuCg_-PyWc"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-30T09:39:19Z",
+                "channelId": "UCKRkaoHl7qR2QzXB45Sn_ZA",
+                "title": "1시간 l 윤하 (YOUNHA) - 사건의 지평선 / 가사 Lyrics",
+                "description": "이 채널은 광고 수익을 창출하지 않는 채널입니다. 원작자가 광고를 넣을 수 있으며 모든 수익은 원작자에게 돌아갑니다. #윤하 #사건 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sCuCg_-PyWc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sCuCg_-PyWc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sCuCg_-PyWc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "뮤직박스 / MUSIC BOX",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-30T09:39:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pFM0NWO0QaBekhLQuTawAgUfwSs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "73V3xrfiYMo"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-30T09:00:04Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] YOUNHA(윤하) _ 사건의 지평선(Event Horizon)",
+                "description": "[MV] YOUNHA(윤하) _ 사건의 지평선(Event Horizon) K-POP Wonderland, 1theK K-POP의 모든 즐거움을 1theK(원더케이)에서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/73V3xrfiYMo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/73V3xrfiYMo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/73V3xrfiYMo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-30T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FwfqeenjRdOZ0C6kDs-qSEKrydk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GiujAOKS4Bg"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-11T19:12:06Z",
+                "channelId": "UC6atj0Imj-uDbpyxprvDDJQ",
+                "title": "220611 청춘페스티벌 윤하 - 사건의 지평선",
+                "description": "가사가 등록됐습니다. 필요시 자막을 켜주세요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GiujAOKS4Bg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GiujAOKS4Bg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GiujAOKS4Bg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "씨게이트",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-11T19:12:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3wbX9oz-pGOXOIaopbOH8jVy7fg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VaVpzed84Os"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-29T08:58:29Z",
+                "channelId": "UCesY-UN9tgibpFJ-lw3y_1A",
+                "title": "[최초공개] 윤하 (YOUNHA) - 사건의 지평선 l @JTBC K-909 221029 방송",
+                "description": "[최초공개] 윤하 (YOUNHA) - 사건의 지평선 #K909 #윤하 #사건의지평선 공홈에서 리플레이 : https://tv.jtbc.co.kr/k909 #티빙 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VaVpzed84Os/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VaVpzed84Os/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VaVpzed84Os/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPOP JAMM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-29T08:58:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "su4Y12Uxb3vwt2vdpaPn3sjza2k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IZvyGFAVd_A"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-19T14:16:26Z",
+                "channelId": "UCWJSXKubxifR1-NNk-_E58w",
+                "title": "1시간 / 가사 | 윤하 (YOUNHA) - 사건의 지평선 | 앨범 : YOUNHA 6th Album Repackage &#39;END THEORY : Final Edition&#39;",
+                "description": "사건의지평선 #윤하 #YOUNHA 1시간 / 가사 사건의 지평선 - 윤하 (YOUNHA) 앨범 : YOUNHA 6th Album Repackage 'END ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "흰토커",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-19T14:16:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1-t9L2WdljRvOwz8jL2POV1gmkA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Py5pFJAzg5c"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-30T12:02:03Z",
+                "channelId": "UCrkr1UPQCgTF4fn3IK6uJ9Q",
+                "title": "Younha – Event Horizon (사건의 지평선) Han|Rom|Eng Lyric",
+                "description": "By ElyDha Subs Translation by ElyDha Subs Don't forget to Like, Share, and Subscribe to My Channel. Thank You No copyright ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Py5pFJAzg5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Py5pFJAzg5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Py5pFJAzg5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ElyDha Subs",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-30T12:02:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LoxlbTF4SSGVPCpI3ghsWN1pfZM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HkyQcTZ3hxw"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-29T10:00:04Z",
+                "channelId": "UCc31zhnmSwJB8czlaXlFSSg",
+                "title": "윤하 - 사건의 지평선 (남자커버) Cover by 탑현",
+                "description": "Instagram - @tophyun_ 좋은 노래는 언제든 빛을 보는 법 Mix, Master 윤일진 @yoon_il_jin #윤하 #사건의지평선 #역주행.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HkyQcTZ3hxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HkyQcTZ3hxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HkyQcTZ3hxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탑현월드 Tophyun World",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-29T10:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rBEHyNpr0KKiYflAiDyPN1N1Kps",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "C2NEogyopXk"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-28T09:08:38Z",
+                "channelId": "UCrZpcsm1OVzHRJswMxJ2lzg",
+                "title": "🔥투표1위!! 사건의 지평선🔥윤하 앨범 17장 인증?!!",
+                "description": "윤하#사건의지평선#사평선.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C2NEogyopXk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C2NEogyopXk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C2NEogyopXk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "잠골버스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-28T09:08:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "khfy3hcrY_CbaBbbXP9TophFNBE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "APXVf0Z3dlM"
+            },
+            "snippet": {
+                "publishedAt": "2022-03-30T14:19:28Z",
+                "channelId": "UCENI6vfWsMYXzpTqblPnZ_w",
+                "title": "윤하 (YOUNHA) - 사건의 지평선(1시간/가사)",
+                "description": "윤하#사건의지평선#신곡#가사#1시간 아티스트 - 윤하 (YOUNHA) 앨범 - YOUNHA 6th Album Repackage 'END THEORY : Final ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/APXVf0Z3dlM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/APXVf0Z3dlM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/APXVf0Z3dlM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "바나나뮤직",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-03-30T14:19:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XUe7SUNtYC99OQw0QGB7IgQE-U4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4ujp94Tsegs"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-14T09:23:05Z",
+                "channelId": "UCfm5pbkoSfLTKNbYSPqGKIA",
+                "title": "윤하(YOUNHA) - 사건의 지평선 / 가사(Lyrics)",
+                "description": "End Theory final edition 끝 맺을 마지막 이야기 우리는 선택한 대로 살아간다. 설령, 선택이 정해져 있더라도. 모든 선택은 고민의 끝 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ujp94Tsegs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ujp94Tsegs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ujp94Tsegs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MPS My Personal Space",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-14T09:23:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gFpKmnZBmK4gL4BVSOswsEHjdNo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_q9TPzEXHvU"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-02T03:00:21Z",
+                "channelId": "UCO83LxEKe2vQROQU2ebMj7A",
+                "title": "[V COLORING LIVE] 윤하(Younha) 의 라이브 오직 V 컬러링에서 – 사건의 지평선, 기다리다, 혜성",
+                "description": "V COLORING LIVE 윤하편 V 컬러링에서만 만나볼 수 있는 감성 보컬 윤하의 띵곡 라이브 모음.zip 지금 시청하는 LIVE ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_q9TPzEXHvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_q9TPzEXHvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_q9TPzEXHvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "V 컬러링",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-02T03:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vq4dda6tfnGopywUTY2buDvGiG8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aiBH54taXug"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-24T09:00:02Z",
+                "channelId": "UCGCdG69Z-kLQeqPxBd2BwoQ",
+                "title": "윤하 (YOUNHA) - 사건의 지평선 (Cover by 한동근)",
+                "description": "윤하 (YOUNHA) - 사건의 지평선 (Cover by 한동근) 한동근 (Han Dong Geun) Official ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aiBH54taXug/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aiBH54taXug/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aiBH54taXug/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "한동근 Han Dong Geun",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-24T09:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "mOUgrdIyfGmhaqLoKhB3Sl-147o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q4c1dwxW0rs"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-18T03:00:10Z",
+                "channelId": "UCM046A_jnoUK36hiWVwUR2w",
+                "title": "윤하 (YOUNHA) - 사건의 지평선 / Kpop / Lyrics / 가사 / 한글",
+                "description": "이 영상에 대한 수익은 모두 원작자에게 돌아갑니다. * 영상에 사용된 음원 저작권자의 설정에 따라 광고가 표시될 수 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q4c1dwxW0rs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q4c1dwxW0rs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q4c1dwxW0rs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "NN Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-18T03:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2WDUNeGHV6TKbF3idpsHBe3n2I4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wNfASH-Zor0"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-04T11:00:38Z",
+                "channelId": "UCfbn_7tdW97URJyy865cIdA",
+                "title": "[가사해석] 와.. 이걸 이렇게 표현한다고..? 지구과학 물리 공부 안 한 사람은 이해 못하는 역주행 곡 | 윤하 &#39;사건의 지평선&#39;",
+                "description": "윤하 '사건의 지평선' youtu.be/BBdC1rl5sKY 뮤비해석 신청 https://forms.gle/cfy9ov9CACfHbwgy6 문의 및 팬아트 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wNfASH-Zor0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wNfASH-Zor0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wNfASH-Zor0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김일오 15KIM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-04T11:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QpQfhz5PSL-9IB9N-FqdmgO5tfY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xzCh34eeau0"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-02T12:36:34Z",
+                "channelId": "UCKExoOZ03h6493Hiba-zh8g",
+                "title": "🕳윤하 (YOUNHA) : 사건의 지평선 [댓글모음/무대모음]",
+                "description": "윤-멘 #윤하 #younha #사건의지평선 #endtheory #eventhorizon 영상이 많아져서 추가 좀 하느라 새로 업로드 했습니당   유튜브 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xzCh34eeau0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xzCh34eeau0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xzCh34eeau0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Yountophia",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-02T12:36:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V_6HdGpns4nsYFISk0gEwLkHxuo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qj1Gt5z4zxo"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-04T07:46:15Z",
+                "channelId": "UCZUhx8ClCv6paFW7qi3qljg",
+                "title": "[TJ노래방] 사건의지평선 - 윤하 / TJ Karaoke",
+                "description": "사건의지평선 -- 윤하 TJ 노래방 곡번호.81425 TJ KARAOKE 유튜브 노래방으로 노래 연습하고 TJ 노래방에 가서 불러보세요! 그리고 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qj1Gt5z4zxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qj1Gt5z4zxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qj1Gt5z4zxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TJ KARAOKE TJ 노래방 공식 유튜브채널",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-04T07:46:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eWdf7ZtNp_mM9D1OAp-2qUmFRnI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eVLYtnZIxR4"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-21T07:29:36Z",
+                "channelId": "UCAmff0euQRf6RwVlbB8PLMw",
+                "title": "[LIVE] 윤하(YOUNHA) - 사건의 지평선(Event Horizon) | 두시탈출 컬투쇼",
+                "description": "[LIVE] 윤하(YOUNHA) - 사건의 지평선(Event Horizon) #윤하 #YOUNHA #사건의지평선 #EventHorizon #두시탈출컬투쇼​ #컬투 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eVLYtnZIxR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eVLYtnZIxR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eVLYtnZIxR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS Radio 에라오",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-21T07:29:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JEfSPF8i-6k9LZVaba4V5zVk9Jc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "M-Dw_4-4seI"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-29T09:00:30Z",
+                "channelId": "UCesY-UN9tgibpFJ-lw3y_1A",
+                "title": "윤하도 믿을 수 없는 띵곡 〈사건의 지평선〉 역주행♨️ l @JTBC K-909 221029 방송",
+                "description": "윤하도 믿을 수 없는 띵곡 〈사건의 지평선〉 역주행♨️ #K909 #윤하 #사건의지평선역주행 공홈에서 리플레이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M-Dw_4-4seI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M-Dw_4-4seI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M-Dw_4-4seI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KPOP JAMM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-29T09:00:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GToQQ_4DlHr3sgtiKWmgNEtfH4c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tVn1G4NSPWE"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-23T14:50:38Z",
+                "channelId": "UCblbeMZGry2HxHtvLnwBe4A",
+                "title": "윤하(YOUNHA) - 사건의 지평선 (Event Horizon) (류민희 COVER)",
+                "description": "사건의지평선커버 #사건의지평선 #윤하사건의지평선커버 ' 행사 & 협찬 & 축가 및 모든 문의는 인스타그램 DM 주세요!! 류민희 인스 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tVn1G4NSPWE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tVn1G4NSPWE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tVn1G4NSPWE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "류민희 RYUMINHEE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-23T14:50:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g-NMcdfMcW0oe5cfFGU4hzVVMF0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "anKhlW47jRs"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-28T09:00:03Z",
+                "channelId": "UC0VjmUBuHB9tn5oF5kxY69g",
+                "title": "[그렉] 윤하 (YOUNHA) - 사건의 지평선 (Event Horizon)",
+                "description": "어렵지만 너무 좋은 곡! 〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓〓 Vocal :: 그렉 Greg Artist :: 윤하 YOUNHA Song Title :: 사건의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/anKhlW47jRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/anKhlW47jRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/anKhlW47jRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "그렉형 Greg",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-28T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WXRtNT7Mpz1wTQDoAJ-eN8PI-LQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TDU8U-0Y4Q4"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-16T09:30:08Z",
+                "channelId": "UCUat6P8WYHOtlWqQZNS_lJw",
+                "title": "윤하 - 사건의 지평선 (piano ver.)",
+                "description": "ODG는 여러분들의 피드백을 존중합니다 본편에서 피아노 버전을 원했던 오린이들을 위해 본편 보러가기   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TDU8U-0Y4Q4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TDU8U-0Y4Q4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TDU8U-0Y4Q4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "odg behind",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-16T09:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Lr8u9zv1Hk6N1RS6RWKXt0gVlLY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6DzPx5aGs3Y"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-06T07:23:11Z",
+                "channelId": "UCsDWhx0znsn4QGHUNSAf6lQ",
+                "title": "[1시간/1hour] 사건의 지평선 – 윤하ㅣEvent Horizon – Younha 🌌",
+                "description": "계속 듣고 싶어서 만든 윤하의 사건의 지평선 #한시간​ #사건의지평선 #윤하​​​​​ #EventHorizon #Younha #구독​​​ ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6DzPx5aGs3Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6DzPx5aGs3Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6DzPx5aGs3Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "스징이의 오두막 Sjing’s Hut",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-06T07:23:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UleklQFsc__4fl2rgZ3N37DkxS4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kbxWCD8Azio"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-06T09:31:13Z",
+                "channelId": "UCJyYNroojKZMaHGnmKRHuHg",
+                "title": "사건의 지평선 - 윤하 cover by 정여진",
+                "description": "안녕하세요 구독자 여러분 정여진입니다 최근 역주행으로 음원차트 1위까지 오른 '윤하'님의 '사건의 지평선'을 들려드립니다. 애니송 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kbxWCD8Azio/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kbxWCD8Azio/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kbxWCD8Azio/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "노래하는 정여진TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-06T09:31:13Z"
+            }
+        }
+    ]
+}

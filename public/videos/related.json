@@ -1,0 +1,188 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "sjBAFZC_Lp3YQSeGXupo3hrysyU",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 174,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LkzZGDSgFBBcyBnXLLYK14Yv8h0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IZvyGFAVd_A"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-19T14:08:24Z",
+                "channelId": "UCWJSXKubxifR1-NNk-_E58w",
+                "title": "1시간 / 가사 | 윤하 (YOUNHA) - 사건의 지평선 | 앨범 : YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
+                "description": "#사건의지평선 #윤하 #YOUNHA \n\n1시간 / 가사\n사건의 지평선 - 윤하 (YOUNHA)\n앨범 : YOUNHA 6th Album Repackage 'END THEORY : Final Edition'\n\n발매일 : 2022.03.30\n\n☑수익을 창출하지 않으며 광고 발생시 음원 저작자에게 수익이 지급됩니다.\n☑유튜브 정책에 따라 광고가 표시 될 수 있으며 광고 수익은 모두 음원 저작자에게 지급됩니다.\n☑*It does not generate revenue.* *Profit will be paid to the music author*",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IZvyGFAVd_A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "흰토커",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-19T14:08:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7-__gYKWmZPXyvWyhJ93zobYFus",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KgOfyyaOkEs"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-14T01:25:36Z",
+                "channelId": "UC_pwIXKXNm5KGhdEVzmY60A",
+                "title": "딘딘 (DINDIN) - 이러면 안 될 거 아는데 너 앞에만 서면 나락 (I’m not myself when I’m around you) (Feat. 10CM) MV",
+                "description": "딘딘 (DINDIN) - 이러면 안 될 거 아는데 너 앞에만 서면 나락 (I’m not myself when I’m around you (Feat. 10CM) MV 입니다.\n\n딘딘의 실화를 바탕으로 한 가사말. 나에겐 관심이 없지만 마음이 가는 여인 앞에서 안절부절 못하고 전전긍긍하는 모습을 담은 내용.\n\n작곡, 작사, 보컬, 랩 다방면에서 역량을 발휘하고 있는 딘딘과 감성 음악의 대명사 10CM 권정열의 콜라보가 기대되는 감각적인 곡.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KgOfyyaOkEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KgOfyyaOkEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KgOfyyaOkEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KgOfyyaOkEs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KgOfyyaOkEs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Stone Music Entertainment",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-14T01:25:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "p-n8NdoMNpqIDpGXfnijzSsXqHw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XTsdPeUKlZg"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-21T11:09:16Z",
+                "channelId": "UCR5cyf8hncN_AaQPfmvmlgA",
+                "title": "윤하 - 스물다섯, 스물하나 [불후의 명곡2 전설을 노래하다/Immortal Songs 2] | KBS 220521 방송",
+                "description": "윤하 - 스물다섯, 스물하나\n\n#윤하 #스물다섯 #스물하나 #리메이크 #음악예능 #노래대결 #전설 #세대공감 #가요 #추억 #명곡 #불후의명곡2전설을노래하다 #ImmortalSongs2 \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSEntertain\n----------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XTsdPeUKlZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XTsdPeUKlZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XTsdPeUKlZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XTsdPeUKlZg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XTsdPeUKlZg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KBS 레전드 케이팝",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-21T11:09:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MgfZTkldlk-RZlzxCGVjqqO52_4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SkyvSxOnBOA"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-11T11:47:18Z",
+                "channelId": "UC95Mdo_aoolc5q7Owks0q_Q",
+                "title": "윤하(YOUNHA)  - 사건의 지평선    Lyrics/가사/역주행",
+                "description": "🎧 윤하(YOUNHA)  - 사건의 지평선    Lyrics/가사/역주행\n1위 축하드립니다. !!!\n\n모든 수익은 원작자에게 돌아갑니다.\n좋아요 댓글  구독  알림설정은 큰 힘이 됩니다. \n\n페이스북 : https://www.facebook.com/ugyenoo\n인스타그램 : https://www.instagram.com/_ugyeno/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SkyvSxOnBOA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SkyvSxOnBOA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SkyvSxOnBOA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SkyvSxOnBOA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SkyvSxOnBOA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "우리의 계절을 담은 노래",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-11T11:47:18Z"
+            }
+        }
+    ]
+}
