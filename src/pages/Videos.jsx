@@ -7,10 +7,10 @@ import { useYoutubeApi } from '../context/YoutubeApiContext';
 export default function Videos() {
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
-  const { isLoading, error, data: videos } = useQuery(['videos', keyword], () => youtube.search(keyword));
+  const { isLoading, error, data: videos } = useQuery(['videos', keyword], () => youtube.search(keyword), { staleTime: 1000 * 60 });
 
   return (
-    <div>
+    <>
       <div>Videos {keyword ? `🔎${keyword}` : '💡'}</div>
       {isLoading && <p>Loading...</p>}
       {error && <p>Something is wrong</p>}
@@ -21,6 +21,6 @@ export default function Videos() {
           ))}
         </ul>
       )}
-    </div>
+    </>
   );
 }
